@@ -131,3 +131,4 @@ saved_models/
 .DS_Store
 Thumbs.db
 kvasir/
+best_imageclef_model.keras
